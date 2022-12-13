@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\bin\Debug\net6.0\AngleBetweenClockArrows.exe
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\bin\Debug\net6.0\AngleBetweenClockArrows.deps.json
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\bin\Debug\net6.0\AngleBetweenClockArrows.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\bin\Debug\net6.0\AngleBetweenClockArrows.dll
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\bin\Debug\net6.0\AngleBetweenClockArrows.pdb
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.dll
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\refint\AngleBetweenClockArrows.dll
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.pdb
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\AngleBetweenClockArrows.genruntimeconfig.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\AngleBetweenClockArrows\obj\Debug\net6.0\ref\AngleBetweenClockArrows.dll

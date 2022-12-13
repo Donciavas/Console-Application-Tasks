@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.exe
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.deps.json
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.dll
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\bin\Debug\net6.0\HierarchicalStructure.pdb
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.dll
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\refint\HierarchicalStructure.dll
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.pdb
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\HierarchicalStructure.genruntimeconfig.cache
+C:\Users\dvitk\OneDrive\Desktop\AngleBetweenClockArrows\HierarchicalStructure\obj\Debug\net6.0\ref\HierarchicalStructure.dll
