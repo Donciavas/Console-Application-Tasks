@@ -2,23 +2,23 @@
 {
     public class Branch
     {
-        public Node? root;
-        public int maxDepth(Node node)
+        public List<Branch>? branches;
+        public char key;
+        public static Branch NewBranch(int key)
         {
-            if (node == null)
+            Branch temp = new Branch();
+            temp.key = (char)key;
+            temp.branches = new List<Branch>();
+            return temp;
+        }
+        public static int DepthOfTree(Branch pointer)
+        {
+            if (pointer == null)
                 return 0;
-            else
-            {
-                int lDepth = maxDepth(node.left);
-                int mDepth = maxDepth(node.middle);
-                int rDepth = maxDepth(node.right);
-                if (lDepth > rDepth && lDepth > mDepth)
-                    return (lDepth + 1);
-                else if (mDepth > lDepth && mDepth > rDepth)
-                    return (mDepth + 1);
-                else
-                    return (rDepth + 1);
-            }
+            int maxDepth = 0;
+            foreach (Branch item in pointer.branches)
+                maxDepth = Math.Max(maxDepth, DepthOfTree(item));
+            return maxDepth + 1;
         }
     }
 }

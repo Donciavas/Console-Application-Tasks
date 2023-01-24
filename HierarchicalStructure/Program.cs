@@ -4,23 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Branch structure = new Branch();
-            structure.root = new Node(1);
-            structure.root.left = new Node(2);
-            structure.root.right = new Node(3);
-            structure.root.middle = new Node(4);
-            structure.root.left.left = new Node(5);
-            structure.root.left.right = new Node(6);
-            structure.root.right.left = new Node(7);
-            structure.root.right.right = new Node(8);
-            structure.root.middle.left = new Node(9);
-            structure.root.left.left.right = new Node(10);
-            structure.root.middle.left.left = new Node(11);
-            structure.root.middle.left.right = new Node(12);
-            structure.root.middle.left.left.right = new Node(13);
-            structure.root.middle.left.left.right.middle = new Node(14);
-            Console.WriteLine("Depth of structure is "
-                              + structure.maxDepth(structure.root));
+            Branch root = Branch.NewBranch('R');
+            (root.branches).Add(Branch.NewBranch(2));
+            (root.branches).Add(Branch.NewBranch('A'));
+            (root.branches).Add(Branch.NewBranch('B'));
+            (root.branches).Add(Branch.NewBranch('C'));
+            (root.branches[0].branches).Add(Branch.NewBranch(3));
+            (root.branches[3].branches).Add(Branch.NewBranch('A'));
+            (root.branches[3].branches).Add(Branch.NewBranch('B'));
+            (root.branches[3].branches).Add(Branch.NewBranch('C'));
+            (root.branches[0].branches[0].branches).Add(Branch.NewBranch(4));
+            (root.branches[3].branches[2].branches).Add(Branch.NewBranch('A'));
+            (root.branches[3].branches[2].branches[0].branches).Add(Branch.NewBranch('5'));
+
+            Console.Write(Branch.DepthOfTree(root) + "\n");
         }
     }
 }
