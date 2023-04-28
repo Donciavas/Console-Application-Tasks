@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Desktop\\AngleBetweenClockArrows\\AngleBetweenClockArrows\\AngleBetweenClockArrows.csproj",
+      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\AngleBetweenClockArrows\\AngleBetweenClockArrows.csproj",
       "projectName": "AngleBetweenClockArrows",
-      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\AngleBetweenClockArrows\\AngleBetweenClockArrows\\AngleBetweenClockArrows.csproj",
+      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\AngleBetweenClockArrows\\AngleBetweenClockArrows.csproj",
       "packagesPath": "C:\\Users\\dvitk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\AngleBetweenClockArrows\\AngleBetweenClockArrows\\obj\\",
+      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\AngleBetweenClockArrows\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dvitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

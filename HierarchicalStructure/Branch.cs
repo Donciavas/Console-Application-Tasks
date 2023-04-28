@@ -16,7 +16,7 @@
             if (pointer == null)
                 return 0;
             int maxDepth = 0;
-            foreach (Branch item in pointer.branches)
+            foreach (Branch item in pointer.branches!)
                 maxDepth = Math.Max(maxDepth, DepthOfTree(item));
             return maxDepth + 1;
         }

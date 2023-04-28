@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Desktop\\AngleBetweenClockArrows\\HierarchicalStructure\\HierarchicalStructure.csproj",
+      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\HierarchicalStructure\\HierarchicalStructure.csproj",
       "projectName": "HierarchicalStructure",
-      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\AngleBetweenClockArrows\\HierarchicalStructure\\HierarchicalStructure.csproj",
+      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\HierarchicalStructure\\HierarchicalStructure.csproj",
       "packagesPath": "C:\\Users\\dvitk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\AngleBetweenClockArrows\\HierarchicalStructure\\obj\\",
+      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\HierarchicalStructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dvitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
