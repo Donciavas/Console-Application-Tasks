@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\bin\Debug\net6.0\VendingMachineV2.exe
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\bin\Debug\net6.0\VendingMachineV2.deps.json
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\bin\Debug\net6.0\VendingMachineV2.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\bin\Debug\net6.0\VendingMachineV2.dll
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\bin\Debug\net6.0\VendingMachineV2.pdb
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.dll
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\refint\VendingMachineV2.dll
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.pdb
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\VendingMachineV2.genruntimeconfig.cache
+C:\Users\dvitk\OneDrive\Desktop\Uploaded projects\ConsoleApplications\VendingMachineV2\obj\Debug\net6.0\ref\VendingMachineV2.dll

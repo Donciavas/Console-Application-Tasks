@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\VendingMachineV2\\VendingMachineV1.csproj",
+      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\VendingMachineV1\\VendingMachineV1.csproj",
       "projectName": "VendingMachineV1",
-      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\VendingMachineV2\\VendingMachineV1.csproj",
+      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\VendingMachineV1\\VendingMachineV1.csproj",
       "packagesPath": "C:\\Users\\dvitk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\VendingMachineV2\\obj\\",
+      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Uploaded projects\\ConsoleApplications\\VendingMachineV1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dvitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
